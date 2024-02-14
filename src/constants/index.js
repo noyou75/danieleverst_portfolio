@@ -59,7 +59,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Next.js Developer",
     icon: mobile,
   },
   {
@@ -133,12 +133,12 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Engineer",
-    company_name: "Nickelfox Technologies",
-    company_website: "https://www.nickelfox.com/",
+    title: "Next.js/React Developer",
+    company_name: "OAK Network",
+    company_website: "https://oak.tech/",
     icon: nickelfox,
     iconBg: "#E6DEDD",
-    date: "Jan 2022 - Present",
+    date: "Apr 2021 - Dec 2023",
     points: [
       "Developing and maintaining web and mobile applications using React.js, React-native and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -147,12 +147,12 @@ const experiences = [
     ],
   },
   {
-    title: "Software Developer",
-    company_name: "Newgen Software",
-    company_website: "https://newgensoft.com/home-india/",
+    title: "Full Stack Developer",
+    company_name: "Ryan, LLC",
+    company_website: "https://ryan.com/",
     icon: newgen,
     iconBg: "#E6DEDD",
-    date: "Mar 2021 - Dec 2021",
+    date: "Mar 2020 - Mar 2021",
     points: [
       "Developed a groundbreaking banking product for a Singapore-based firm, improved transaction management.",
       "Developed a dynamic dashboard for efficient transaction management, resulting in a 30% increase in productivity.",
@@ -161,33 +161,19 @@ const experiences = [
     ],
   },
   {
-    title: "Software Engineer Intern",
-    company_name: "Skillrisers",
-    company_website: "https://www.skillrisers.com/",
+    title: "Front-end Developer",
+    company_name: "Outcraft Agency",
+    company_website: "https://outcraft.agency/",
     icon: skillrisers,
     iconBg: "#E6DEDD",
-    date: "Jan 2020 - Jul 2020",
+    date: "Apr 2019 - Feb 2020",
     points: [
       "Contributed to the development of a Test Engine Application, empowering users to create and conduct tests seamlessly.",
       "Built three essential modules: Teacher, Student, and Admin, ensuring comprehensive functionality for all user roles.",
       "Collaborated effectively with the development team, actively participating in code reviews and resolving technical challenges.",
       "Demonstrated strong problem-solving skills, consistently delivering high-quality code and meeting project deadlines.",
     ],
-  },
-  {
-    title: "Frontend Developer",
-    company_name: "Self-employed",
-    company_website: "https://proximus.surge.sh/index.html",
-    icon: proximus,
-    iconBg: "#E6DEDD",
-    date: "Jan 2018 - Jan 2021",
-    points: [
-      "Spearheaded the development of a fully responsive website for the college coding society.",
-      "Led coding sessions, actively sharing knowledge and insights to enrich members' programming skills and understanding.",
-      "Organized informative sessions on cutting-edge technologies, including JavaScript and ReactJs.",
-      "Curated and designed challenging coding problems for college competitions.",
-    ],
-  },
+  }
 ];
 
 const projects = [
@@ -323,11 +309,11 @@ const projects = [
 
 const personalInfo = {
   name: "Daniel",
-  fullName: "Daniel Rai",
-  email: "handaniel214@gmail.com",
-  role: "Software Developer",
+  fullName: "Daniel Everest",
+  email: "danieleverest0214@gmail.com",
+  role: "Senior Frontend Web Developer",
   about: `I'm a skilled software developer with experience in TypeScript and
-  JavaScript, and expertise in frameworks like React.Js, React-naitve,
+  JavaScript, and expertise in frameworks like React.Js, Next.js,
   Node.js etc. I'm a quick learner and collaborate closely with clients to
   create efficient, scalable, and user-friendly solutions that solve
   real-world problems. Let's work together to bring your ideas to life!`,
@@ -341,14 +327,19 @@ const publicUrls = {
   resume:
     "https://drive.google.com/file/d/1vmiPiCLaCuqM0uuDcXQlAd8pY8yBDEOU/view?usp=sharing",
   socialProfiles: {
-    linkedin: {
-      title: "linkedin",
-      link: "https://www.linkedin.com/in/Danielrai/",
-      icon: linkedIn,
-    },
     github: {
       title: "github",
-      link: "https://github.com/Danielrai",
+      link: "https://github.com/danieleverest",
+      icon: github,
+    },
+    telegram: {
+      title: "telegram",
+      link: "https://t.me/devgenius0214",
+      icon: github,
+    },
+    skype: {
+      title: "skype",
+      link: "https://join.skype.com/invite/gZFuoNEpP5hG",
       icon: github,
     },
   },
