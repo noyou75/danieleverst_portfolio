@@ -1,10 +1,12 @@
-import logo from "./logo.svg";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
-import github from "./github.png";
-import linkedIn from "./linkedIn.png";
+import logo from "./logo.png";
+import react from "./social/react.png";
+import nextjs from "./social/nextjs.jpg";
+import node from "./social/nodejs.png";
+import javaScript from "./social/javascript.png";
+import github from "./social/github.png";
+import linkedin from "./social/linkedin.png";
+import telegram from "./social/telegram.png";
+import skype from "./social/skype.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import demo from "./demo.png";
@@ -23,10 +25,10 @@ import angular from "./tech/angular.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import nickelfox from "./company/nickelfox.png";
-import newgen from "./company/newgen.png";
-import skillrisers from "./company/skillrisers.png";
-import proximus from "./company/proximus.png";
+import oaknetwork from "./company/oaknetwork.jpg";
+import ryan from "./company/ryan.jpg";
+import outcraftagency from "./company/outcraftagency.jpg";
+// import proximus from "./company/proximus.png";
 
 import aptihealthWeb from "./projects/aptihealthWeb.png";
 import aptihealthApp from "./projects/aptihealthApp.png";
@@ -37,12 +39,14 @@ import rollApp from "./projects/rollApp.png";
 
 export {
   logo,
-  backend,
-  creator,
-  mobile,
-  web,
+  react,
+  nextjs,
+  node,
+  javaScript,
   github,
-  linkedIn,
+  linkedin,
+  skype,
+  telegram,
   demo,
   menu,
   close,
@@ -60,10 +64,10 @@ export {
   redux,
   tailwind,
   typescript,
-  nickelfox,
-  newgen,
-  skillrisers,
-  proximus,
+  oaknetwork,
+  ryan,
+  outcraftagency,
+  // proximus,
   aptihealthWeb,
   aptihealthApp,
   zealWeb,

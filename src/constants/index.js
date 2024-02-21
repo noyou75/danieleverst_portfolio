@@ -1,8 +1,8 @@
 import {
-  mobile,
-  backend,
-  creator,
-  web,
+  react,
+  node,
+  nextjs,
+  javaScript,
   javascript,
   typescript,
   html,
@@ -14,21 +14,22 @@ import {
   angular,
   nodejs,
   mongodb,
-  java,
   mysql,
   git,
-  nickelfox,
-  newgen,
-  skillrisers,
-  proximus,
+  oaknetwork,
+  ryan,
+  outcraftagency,
+  // proximus,
   aptihealthWeb,
   aptihealthApp,
   zealWeb,
   zealApp,
   rollWeb,
   rollApp,
-  linkedIn,
+  linkedin,
   github,
+  telegram,
+  skype
 } from "../assets";
 
 const navigationPaths = {
@@ -56,19 +57,19 @@ export const navLinks = [
 const services = [
   {
     title: "React Developer",
-    icon: web,
+    icon: react,
   },
   {
     title: "Next.js Developer",
-    icon: mobile,
+    icon: nextjs,
   },
   {
     title: "NodeJs Developer",
-    icon: backend,
+    icon: node,
   },
   {
     title: "Javascript Developer",
-    icon: creator,
+    icon: javaScript,
   },
 ];
 
@@ -118,10 +119,6 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Java",
-    icon: java,
-  },
-  {
     name: "MySQL",
     icon: mysql,
   },
@@ -136,7 +133,7 @@ const experiences = [
     title: "Next.js/React Developer",
     company_name: "OAK Network",
     company_website: "https://oak.tech/",
-    icon: nickelfox,
+    icon: oaknetwork,
     iconBg: "#E6DEDD",
     date: "Apr 2021 - Dec 2023",
     points: [
@@ -150,7 +147,7 @@ const experiences = [
     title: "Full Stack Developer",
     company_name: "Ryan, LLC",
     company_website: "https://ryan.com/",
-    icon: newgen,
+    icon: ryan,
     iconBg: "#E6DEDD",
     date: "Mar 2020 - Mar 2021",
     points: [
@@ -164,7 +161,7 @@ const experiences = [
     title: "Front-end Developer",
     company_name: "Outcraft Agency",
     company_website: "https://outcraft.agency/",
-    icon: skillrisers,
+    icon: outcraftagency,
     iconBg: "#E6DEDD",
     date: "Apr 2019 - Feb 2020",
     points: [
@@ -325,22 +322,27 @@ const personalInfo = {
 
 const publicUrls = {
   resume:
-    "https://drive.google.com/file/d/1vmiPiCLaCuqM0uuDcXQlAd8pY8yBDEOU/view?usp=sharing",
+    "https://drive.google.com/file/d/1MPMnGgyvvEhzHXGR_ywW3Qvm0kUrwRyj/view?usp=drive_link",
   socialProfiles: {
     github: {
       title: "github",
       link: "https://github.com/danieleverest",
       icon: github,
     },
+    linkedin: {
+      title: "linkedin",
+      link: "https://linkedin.com/in/danieleverest0214",
+      icon: linkedin,
+    },
     telegram: {
       title: "telegram",
       link: "https://t.me/devgenius0214",
-      icon: github,
+      icon: telegram,
     },
     skype: {
       title: "skype",
       link: "https://join.skype.com/invite/gZFuoNEpP5hG",
-      icon: github,
+      icon: skype,
     },
   },
 };
